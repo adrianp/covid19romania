@@ -11,6 +11,8 @@ Various metrics on the COVID-19 outbreak in Romania:
 
 Main data source is the press office of the [Ministry of Internal Affairs](https://www.mai.gov.ro/category/comunicate-de-presa/), which currently provides a daily report on most metrics. Data points are also sourced from the Romanian Ministry of Health and the Romanian National Institute of Public Health via various news outlets.
 
+A _work in progress_ visualisation of the data is available at http://covid19ro.com/.
+
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
 Data is available under [Creative Commons Zero (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/); it also has a DOI: [10.6084/m9.figshare.12045243](https://doi.org/10.6084/m9.figshare.12045243).

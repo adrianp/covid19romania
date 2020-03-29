@@ -1,0 +1,26 @@
+{
+    "metric": "Total COVID-19 cases (cumulative) in medical personnel in Romania",
+    "values":[
+        {
+            "date": "2020-03-14",
+            "value": 3
+        },
+        {
+            "date": "2020-03-24",
+            "value": 103
+        },
+        {
+            "date": "2020-03-26",
+            "value": 153
+        },
+        {
+            "date": "2020-03-27",
+            "value": 177
+        },
+        {
+            "date": "2020-03-28",
+            "value": 184
+        }
+    ]
+}
+

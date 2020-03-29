@@ -1,0 +1,37 @@
+{
+    "metric": "Cumulative number of deaths caused by COVID-19 in Romania",
+    "values":[
+        {
+            "date": "2020-03-22",
+            "value": 2
+        },
+        {
+            "date": "2020-03-23",
+            "value": 4
+        },
+        {
+            "date": "2020-03-24",
+            "value": 8
+        },
+        {
+            "date": "2020-03-25",
+            "value": 13
+        },
+        {
+            "date": "2020-03-26",
+            "value": 17
+        },
+        {
+            "date": "2020-03-27",
+            "value": 24
+        },
+        {
+            "date": "2020-03-28",
+            "value": 29
+        },
+        {
+            "date": "2020-03-29",
+            "value": 38
+        }
+    ]
+}

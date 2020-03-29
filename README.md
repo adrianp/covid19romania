@@ -5,6 +5,7 @@ Various metrics on the COVID-19 outbreak in Romania:
 * [new_cases_ro.json](https://github.com/adrianp/covid19romania/blob/master/new_cases_ro.json): new COVID-19 cases as reported daily
 * [medical_cases_ro.json](https://github.com/adrianp/covid19romania/blob/master/medical_cases_ro.json): cumulative number of confirmed COVID-19 cases among medical personnel
 * [tests_ro.json](https://github.com/adrianp/covid19romania/blob/master/tests_ro.json): cumulative number of performed SARS-CoV-2 tests as reported daily
+* [total_deaths_ro.json](https://github.com/adrianp/covid19romania/blob/master/total_deaths_ro.json): cumulative number of deaths in patients with confirmed COVID-19
 
 Main data source is the press office of the [Ministry of Internal Affairs](https://www.mai.gov.ro/category/comunicate-de-presa/), which currently provides a daily report on most metrics. Data points are also sourced from the Romanian Ministry of Health and the Romanian National Institute of Public Health via various news outlets.
 

@@ -1,5 +1,5 @@
 {
-    "metric": "Total COVID-19 cases (cumulative) in Romania",
+    "metric": "Cumulative number of confirmed COVID-19 cases in Romania",
     "values":[
         {
             "date": "2020-03-03",

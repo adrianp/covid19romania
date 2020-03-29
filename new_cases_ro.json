@@ -1,5 +1,5 @@
 {
-    "metric": "New daily COVID-19 cases in Romania",
+    "metric": "Daily reported cases of COVID-19 in Romania",
     "values":[
         {
             "date": "2020-03-03",

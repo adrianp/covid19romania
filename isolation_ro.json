@@ -1,5 +1,5 @@
 {
-    "metric": "Number of persons in home isolation due to SARS-COV-19 infection suspicion in Romania",
+    "metric": "Current number of persons suspected of SARS-COV-19 infection in home isolation in Romania",
     "values":[
         {
             "date": "2020-02-26",

@@ -1,5 +1,9 @@
 {
     "metric": "Cumulative number of confirmed COVID-19 deaths in Romania",
+    "description": {
+        "en": "Cumulative number of confirmed COVID-19 deaths in Romania",
+        "ro": "Numar total de decese in urma infectiei cu SARS-COV-19 in Romania"
+    },
     "values":[
         {
             "date": "2020-03-22",

@@ -1,5 +1,9 @@
 {
     "metric": "Cumulative number of confirmed COVID-19 recoveries in Romania",
+    "description": {
+        "en": "Cumulative number of confirmed COVID-19 recoveries in Romania",
+        "ro": "Numar total de persoane infectate cu SARS-COV-19 si declarate vindecate in Romania"
+    },
     "values":[
         {
             "date": "2020-02-29",

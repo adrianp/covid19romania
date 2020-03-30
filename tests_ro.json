@@ -1,6 +1,9 @@
 {
-    "metric": "Performed COVID-19 tests (cumulative) in Romania",
-    "metric": "Cumulative number of COVID-19 tests performed in Romania",
+    "metric": "Cumulative number of SARS-COV-19 tests performed in Romania",
+    "description": {
+        "en": "Cumulative number of SARS-COV-19 tests performed in Romania",
+        "ro": "Numar total de teste pentru depistarea infectiei cu SARS-COV-19 efectuate in Romania"
+    },
     "values":[
         {
             "date": "2020-03-12",

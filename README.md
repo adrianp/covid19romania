@@ -10,9 +10,9 @@ Various metrics on the COVID-19 outbreak in Romania:
 * [quarantined_ro.json](https://github.com/adrianp/covid19romania/blob/master/quarantined_ro.json): Number of quarantined persons in Romania due to SARS-COV-19 infection suspicion (daily figure)
 * [total_recovered_ro.json](https://github.com/adrianp/covid19romania/blob/master/total_recovered_ro.json): cumulative number of recoveries in patients with confirmed COVID-19
 
-Main data source is the press office of the [Ministry of Internal Affairs](https://www.mai.gov.ro/category/comunicate-de-presa/), which currently provides a daily report on most metrics. Data points are also sourced from the Romanian Ministry of Health and the Romanian National Institute of Public Health via various news outlets.
+Main data source is the press office of the [Ministry of Internal Affairs](https://www.mai.gov.ro/category/comunicate-de-presa/), which currently provides a daily report on most metrics. Data points are also sourced from the Romanian Ministry of Health and the Romanian National Institute of Public Health and occasionally from news outlets. The purpose is to provide a historic overview of the various figures and not live information on the pandemic.
 
-A _work in progress_ visualisation of the data is available at http://covid19ro.com/.
+A visualisation is provided, only for demonstration purposes, at https://covid19ro.com.
 
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 

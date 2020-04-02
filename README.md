@@ -6,9 +6,10 @@ Various metrics on the COVID-19 outbreak in Romania:
 * [medical_cases_ro.json](https://github.com/adrianp/covid19romania/blob/master/medical_cases_ro.json): cumulative number of confirmed COVID-19 cases among medical personnel
 * [tests_ro.json](https://github.com/adrianp/covid19romania/blob/master/tests_ro.json): cumulative number of performed SARS-CoV-2 tests as reported daily
 * [total_deaths_ro.json](https://github.com/adrianp/covid19romania/blob/master/total_deaths_ro.json): cumulative number of deaths in patients with confirmed COVID-19
-* [isolation_ro.json](https://github.com/adrianp/covid19romania/blob/master/isolation_ro.json): Number of persons in home isolation due to SARS-COV-19 infection suspicion in Romania (daily figure)
-* [quarantined_ro.json](https://github.com/adrianp/covid19romania/blob/master/quarantined_ro.json): Number of quarantined persons in Romania due to SARS-COV-19 infection suspicion (daily figure)
+* [isolation_ro.json](https://github.com/adrianp/covid19romania/blob/master/isolation_ro.json): number of persons in home isolation due to SARS-COV-19 infection suspicion in Romania (daily figure)
+* [quarantined_ro.json](https://github.com/adrianp/covid19romania/blob/master/quarantined_ro.json): number of quarantined persons in Romania due to SARS-COV-19 infection suspicion (daily figure)
 * [total_recovered_ro.json](https://github.com/adrianp/covid19romania/blob/master/total_recovered_ro.json): cumulative number of recoveries in patients with confirmed COVID-19
+* [icu_ro.json](https://github.com/adrianp/covid19romania/blob/master/icu_ro.json): current number of patients in ICU due to COVID-19 in Romania
 
 Main data source is the press office of the [Ministry of Internal Affairs](https://www.mai.gov.ro/category/comunicate-de-presa/), which currently provides a daily report on most metrics. Data points are also sourced from the Romanian Ministry of Health and the Romanian National Institute of Public Health and occasionally from news outlets. The purpose is to provide a historic overview of the various figures and not live information on the pandemic.
 

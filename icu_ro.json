@@ -1,0 +1,94 @@
+{
+    "metric": "Number of patients in ICU due to COVID-19 in Romania",
+    "description": {
+        "en": "Current number of patients in ICU due to COVID-19 in Romania",
+        "ro": "Numar curent de pacienti suferind de COVID-19 si aflati la terapie intensiva in Romania"
+    },
+    "values":[
+        {
+            "date": "2020-03-13",
+            "value": 1
+        },
+        {
+            "date": "2020-03-14",
+            "value": 1
+        },
+        {
+            "date": "2020-03-15",
+            "value": 0
+        },
+        {
+            "date": "2020-03-16",
+            "value": 0
+        },
+        {
+            "date": "2020-03-17",
+            "value": 4
+        },
+        {
+            "date": "2020-03-18",
+            "value": 4
+        },
+        {
+            "date": "2020-03-19",
+            "value": 6
+        },
+        {
+            "date": "2020-03-20",
+            "value": 11
+        },
+        {
+            "date": "2020-03-21",
+            "value": 14
+        },
+        {
+            "date": "2020-03-22",
+            "value": 14
+        },
+        {
+            "date": "2020-03-23",
+            "value": 15
+        },
+        {
+            "date": "2020-03-24",
+            "value": 16
+        },
+        {
+            "date": "2020-03-25",
+            "value": 18
+        },
+        {
+            "date": "2020-03-26",
+            "value": 29
+        },
+        {
+            "date": "2020-03-27",
+            "value": 32
+        },
+        {
+            "date": "2020-03-28",
+            "value": 34
+        },
+        {
+            "date": "2020-03-29",
+            "value": 38
+        },
+        {
+            "date": "2020-03-30",
+            "value": 55
+        },
+        {
+            "date": "2020-03-31",
+            "value": 62
+        },
+        {
+            "date": "2020-04-01",
+            "value": 57
+        },
+        {
+            "date": "2020-04-02",
+            "value": 78
+        }
+    ]
+}
+

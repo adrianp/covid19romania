@@ -19,4 +19,4 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 Data is available under [Creative Commons Zero (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/); it also has a DOI: [10.6084/m9.figshare.12045243](https://doi.org/10.6084/m9.figshare.12045243).
 
-Existing metrics are updated at least once every day. Please use [issues](https://github.com/adrianp/covid19romania/issues) to report any problem with the data or to suggest improvements.
+Existing metrics are updated at least once every week. Please use [issues](https://github.com/adrianp/covid19romania/issues) to report any problem with the data or to suggest improvements.
